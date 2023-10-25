@@ -1,0 +1,304 @@
+{
+  "users": {
+    "62858156631709@c.us": {
+      "limit": 25,
+      "lastChat": 1685966656041,
+      "premium": true,
+      "VIP": true,
+      "registered": false,
+      "name": "Hisoka",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6287711651990@c.us": {
+      "limit": 25,
+      "lastChat": 1693622395511,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Dika",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6287764383752@c.us": {
+      "limit": 25,
+      "lastChat": 1693622532411,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "F",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6282135278036@c.us": {
+      "limit": 25,
+      "lastChat": 1693622649911,
+      "premium": true,
+      "VIP": true,
+      "registered": false,
+      "name": "vj",
+      "exp": 0,
+      "banned": true,
+      "simi": false
+    },
+    "6287747902780@c.us": {
+      "limit": 25,
+      "lastChat": 1693734403934,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Rasti Mustofa",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6289517198414@c.us": {
+      "limit": 25,
+      "lastChat": 1693736206285,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": ".",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6287734581325@c.us": {
+      "limit": 25,
+      "lastChat": 1693736724023,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Cillyoii",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6283141087596@c.us": {
+      "limit": 25,
+      "lastChat": 1693738767647,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Dapoz.",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6285702253708@c.us": {
+      "limit": 25,
+      "lastChat": 1693740230072,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "•YTTA•√",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6281225095508@c.us": {
+      "limit": 25,
+      "lastChat": 1693740266445,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "#wongsepele.",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6285867689668@c.us": {
+      "limit": 25,
+      "lastChat": 1693921093415,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "𝚈𝚃𝚃𝙰",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6288215328239@c.us": {
+      "limit": 25,
+      "lastChat": 1693921096709,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "ZEXXA BOT",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6283807395440@c.us": {
+      "limit": 25,
+      "lastChat": 1693931805720,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Virgy",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6281327853011@c.us": {
+      "limit": 25,
+      "lastChat": 1693952557560,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Hanif Eka Azhari",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6287814077213@c.us": {
+      "limit": 25,
+      "lastChat": 1693953734432,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "...",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6282321918300@c.us": {
+      "limit": 25,
+      "lastChat": 1693956871581,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Renn",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6281573212328@c.us": {
+      "limit": 25,
+      "lastChat": 1693958048343,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Anggi",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6285713131233@c.us": {
+      "limit": 25,
+      "lastChat": 1693968735821,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "-_",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6285712249005@c.us": {
+      "limit": 25,
+      "lastChat": 1694007434430,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Yuna Tech",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6285795713631@c.us": {
+      "limit": 25,
+      "lastChat": 1694011767560,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "zanira",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6281327873538@c.us": {
+      "limit": 25,
+      "lastChat": 1694012379444,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "fanzz",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6285601108120@c.us": {
+      "limit": 25,
+      "lastChat": 1694012716938,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": ".",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6283899483981@c.us": {
+      "limit": 15,
+      "lastChat": 1695140492458,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "P",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6282184689528@c.us": {
+      "limit": 15,
+      "lastChat": 1695259523013,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "faiqbagus",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6282286919922@c.us": {
+      "limit": 15,
+      "lastChat": 1695269389247,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Yosafat",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "6289503782861@c.us": {
+      "limit": 15,
+      "lastChat": 1695277365259,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Sulaiman",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    }
+  },
+  "groups": {
+    "447471037113-1475003818@g.us": {
+      "lastChat": 1685966656041,
+      "mute": false
+    },
+    "120363026025674021@g.us": {
+      "lastChat": 1693622532411,
+      "mute": false
+    },
+    "120363167761958623@g.us": {
+      "lastChat": 1693940474243,
+      "mute": false
+    }
+  }
+}
